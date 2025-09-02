@@ -14,5 +14,5 @@ A Python project that integrates with **Google Sheets** and **Gmail** to:
 ## 📦 Setup
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/google-workspace-automation.git
+   git clone https://github.com/gauravmishragit663/google-workspace-automation.git
    cd google-workspace-automation
